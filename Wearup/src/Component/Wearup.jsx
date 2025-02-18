@@ -13,11 +13,11 @@ const PaymentPage = () => {
       <div className="header">
         <span>💳 AceCoinPay</span>
         <div className="timer">
-          <span className="box1">0</span>
-          <span className="box2">1</span>
-          <span className="box3">:</span>
-          <span className="box4">1</span>
-          <span className="box5">9</span>
+          <span className="box">0</span>
+          <span className="box">1</span>
+          <span className="box">:</span>
+          <span className="box">1</span>
+          <span className="box">9</span>
         </div>
       </div>
 
